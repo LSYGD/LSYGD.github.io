@@ -1,3 +1,3 @@
 # lsygd.github.io
 
-This is a blog test.
+首頁必須命名為 index.html 否則為Read.me
